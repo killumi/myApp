@@ -1,0 +1,17 @@
+.search{
+    width: 800px;
+    margin: auto;
+    padding: 35px;
+    border-radius: 6px;
+    background: #fff;
+    margin-top: 40px;
+}
+
+h2{
+    margin-bottom: 30px;
+}
+
+.card{
+    width: 400px;
+    margin: auto;
+}
